@@ -22,5 +22,6 @@ Soy estudiante de 3º año del **Doble Grado en Física y Matemáticas en la Uni
 * **[Simulación y Optimización de Monocromadores Multicapa de Rayos X](enlace-a-tu-repo):** Desarrollo de un entorno en Python para modelar la reflectividad de rayos X utilizando los modelos cinemático y dinámico de Parratt, aplicando optimización multiobjetivo (Frentes de Pareto).
 
 ## 📫 Cómo contactarme
-* **Email:** [Tu correo institucional u0301613@uniovi.es]
-* **LinkedIn:** [Añade aquí tu URL de LinkedIn]
+* **Email:** [u0301613@uniovi.es]
+
+
