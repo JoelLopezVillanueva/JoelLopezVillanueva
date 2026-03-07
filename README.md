@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Joel López Villanueva 👋
 
-<!--
-**JoelLopezVillanueva/JoelLopezVillanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de 3º año del **Doble Grado en Física y Matemáticas en la Universidad de Oviedo**. Me apasiona la intersección entre la física teórica y la computación, especialmente la simulación de sistemas complejos, la inteligencia artificial y la teoría de la información cuántica.
 
-Here are some ideas to get you started:
+## 🔬 Intereses y Enfoque de Investigación
+* **Computación Cuántica y Criptografía:** Exploración de circuitos cuánticos y criptografía post-cuántica.
+* **Machine Learning & AI:** Aplicación de algoritmos de aprendizaje supervisado y modelos predictivos para ciencia de datos.
+* **Física Computacional:** Procesamiento estadístico de datos experimentales, modelado estocástico y validación de modelos físicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Herramientas y Lenguajes
+* **Programación Científica:** Python (NumPy, SciPy, Matplotlib).
+* **Simulación Cuántica:** Qiskit SDK.
+* **Estadística y Datos:** R.
+* **Documentación Técnica:** LaTeX, Markdown.
+
+## 🎓 Certificaciones y Formación Destacada
+* **Machine Learning & AI Fundamentals** - *IBM SkillsBuild* (Modelos predictivos, NLP, Redes Neuronales y AutoAI).
+* **Criptografía Avanzada en Ciberseguridad** - *Universidad de Oviedo & INCIBE*.
+* **Generative AI** - Optimización de flujos de trabajo académicos y síntesis de código.
+
+## 🚀 Proyectos Destacados
+* **[Simulación y Optimización de Monocromadores Multicapa de Rayos X](enlace-a-tu-repo):** Desarrollo de un entorno en Python para modelar la reflectividad de rayos X utilizando los modelos cinemático y dinámico de Parratt, aplicando optimización multiobjetivo (Frentes de Pareto).
+
+## 📫 Cómo contactarme
+* **Email:** [Tu correo institucional u0301613@uniovi.es]
+* **LinkedIn:** [Añade aquí tu URL de LinkedIn]
