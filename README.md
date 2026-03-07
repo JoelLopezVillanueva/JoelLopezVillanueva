@@ -11,7 +11,7 @@ Soy estudiante de 3º año del **Doble Grado en Física y Matemáticas en la Uni
 * **Programación Científica:** Python (NumPy, SciPy, Matplotlib).
 * **Simulación Cuántica:** Qiskit SDK.
 * **Estadística y Datos:** R.
-* **Documentación Técnica:** LaTeX, Markdown.
+* **Documentación Técnica:** LaTeX.
 
 ## 🎓 Certificaciones y Formación Destacada
 * **Machine Learning & AI Fundamentals** - *IBM SkillsBuild* (Modelos predictivos, NLP, Redes Neuronales y AutoAI).
