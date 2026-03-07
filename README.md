@@ -19,7 +19,7 @@ Soy estudiante de 3º año del **Doble Grado en Física y Matemáticas en la Uni
 * **Generative AI** - Optimización de flujos de trabajo académicos y síntesis de código.
 
 ## 🚀 Proyectos Destacados
-* **[Simulación y Optimización de Monocromadores Multicapa de Rayos X](enlace-a-tu-repo):** Desarrollo de un entorno en Python para modelar la reflectividad de rayos X utilizando los modelos cinemático y dinámico de Parratt, aplicando optimización multiobjetivo (Frentes de Pareto).
+* **[Simulación y Optimización de Monocromadores Multicapa de Rayos X](https://github.com/JoelLopezVillanueva/Simulacion-Multicapas-Sincrotron):** Desarrollo de un entorno en Python para modelar la reflectividad de rayos X utilizando los modelos cinemático y dinámico de Parratt, aplicando optimización multiobjetivo (Frentes de Pareto).
 
 ## 📫 Cómo contactarme
 * **Email:** [u0301613@uniovi.es]
