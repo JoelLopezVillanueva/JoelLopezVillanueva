@@ -1,6 +1,6 @@
 # Hi there! I'm Joel López Villanueva 👋
 
-I am a 4th-year **Physics and Mathematics Double Degree** student at the University of Oviedo. I am deeply passionate about the intersection of theoretical physics and computing, with a strong focus on quantum information theory, quantum machine learning, and the simulation of complex systems.
+I am a 4th-year **Physics and Mathematics Double Degree** student at the University of Oviedo. I am deeply passionate about the intersection of theoretical physics and computing, with a strong focus on quantum information theory and quantum machine learning.
 
 ## 🔬 Interests & Research Focus
 * **Quantum Computing & QML:** Exploration of variational quantum algorithms, quantum feature maps, and post-quantum cryptography.
@@ -23,6 +23,5 @@ I am a 4th-year **Physics and Mathematics Double Degree** student at the Univers
 
 ## 📫 Connect with Me
 * **Academic Email:** [u0301613@uniovi.es]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-
+* **LinkedIn:** [linkedin.com/in/joel-lópez-villanueva-85b936294](https://www.linkedin.com/in/joel-l%C3%B3pez-villanueva-85b936294/)
 
