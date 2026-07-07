@@ -3,7 +3,7 @@
 I am a 4th-year **Physics and Mathematics Double Degree** student at the University of Oviedo. I am deeply passionate about the intersection of theoretical physics and computing, with a strong focus on quantum information theory, quantum machine learning, and the simulation of complex systems.
 
 ## 🔬 Interests & Research Focus
-* **Quantum Computing & QML:** Exploration of variational quantum algorithms (VQE/QAOA), quantum feature maps, and post-quantum cryptography.
+* **Quantum Computing & QML:** Exploration of variational quantum algorithms, quantum feature maps, and post-quantum cryptography.
 * **Machine Learning & AI:** Application of supervised learning algorithms, predictive modeling, and data-driven methods for scientific research.
 * **Computational Physics:** Statistical data processing, stochastic modeling, and numerical validation of physical systems.
 
