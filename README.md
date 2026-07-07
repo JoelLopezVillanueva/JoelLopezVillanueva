@@ -1,27 +1,28 @@
-# ¡Hola! Soy Joel López Villanueva 👋
+# Hi there! I'm Joel López Villanueva 👋
 
-Soy estudiante de 3º año del **Doble Grado en Física y Matemáticas en la Universidad de Oviedo**. Me apasiona la intersección entre la física teórica y la computación, especialmente la simulación de sistemas complejos, la inteligencia artificial y la teoría de la información cuántica.
+I am a 4th-year **Physics and Mathematics Double Degree** student at the University of Oviedo. I am deeply passionate about the intersection of theoretical physics and computing, with a strong focus on quantum information theory, quantum machine learning, and the simulation of complex systems.
 
-## 🔬 Intereses y Enfoque de Investigación
-* **Computación Cuántica y Criptografía:** Exploración de circuitos cuánticos y criptografía post-cuántica.
-* **Machine Learning & AI:** Aplicación de algoritmos de aprendizaje supervisado y modelos predictivos para ciencia de datos.
-* **Física Computacional:** Procesamiento estadístico de datos experimentales, modelado estocástico y validación de modelos físicos.
+## 🔬 Interests & Research Focus
+* **Quantum Computing & QML:** Exploration of variational quantum algorithms (VQE/QAOA), quantum feature maps, and post-quantum cryptography.
+* **Machine Learning & AI:** Application of supervised learning algorithms, predictive modeling, and data-driven methods for scientific research.
+* **Computational Physics:** Statistical data processing, stochastic modeling, and numerical validation of physical systems.
 
-## 💻 Herramientas y Lenguajes
-* **Programación Científica:** Python (NumPy, SciPy, Matplotlib).
-* **Simulación Cuántica:** Qiskit SDK.
-* **Estadística y Datos:** R.
-* **Documentación Técnica:** LaTeX.
+## 💻 Technical Toolkit
+* **Scientific Computing:** Python (NumPy, SciPy, Matplotlib)
+* **Quantum SDKs:** Qiskit
+* **Statistical Analysis:** R
+* **Typesetting & Documentation:** LaTeX
 
-## 🎓 Certificaciones y Formación Destacada
-* **Machine Learning & AI Fundamentals** - *IBM SkillsBuild* (Modelos predictivos, NLP, Redes Neuronales y AutoAI).
-* **Criptografía Avanzada en Ciberseguridad** - *Universidad de Oviedo & INCIBE*.
-* **Generative AI** - Optimización de flujos de trabajo académicos y síntesis de código.
+## 🎓 Featured Certifications
+* **Quantum Machine Learning** – *IBM Quantum Learning* (Quantum kernels, parameter-shift rule, and variational circuits).
+* **Advanced Cryptography in Cybersecurity** – *INCIBE & University of Oviedo*.
+* **Generative AI** – Academic workflow optimization, prompt engineering, and code synthesis.
 
-## 🚀 Proyectos Destacados
-* **[Simulación y Optimización de Monocromadores Multicapa de Rayos X](https://github.com/JoelLopezVillanueva/Simulacion-Multicapas-Sincrotron):** Desarrollo de un entorno en Python para modelar la reflectividad de rayos X utilizando los modelos cinemático y dinámico de Parratt, aplicando optimización multiobjetivo (Frentes de Pareto).
+## 🚀 Featured Projects
+* **[X-Ray Multilayer Monochromator Simulation](https://github.com/JoelLopezVillanueva/Simulacion-Multicapas-Sincrotron):** Developed a Python environment to model X-ray reflectivity using the kinematic and Parratt dynamic models, incorporating multi-objective optimization (Pareto Fronts) for synchrotron radiation beamlines.
 
-## 📫 Cómo contactarme
-* **Email:** [u0301613@uniovi.es]
+## 📫 Connect with Me
+* **Academic Email:** [u0301613@uniovi.es]
+* **LinkedIn:** [Your LinkedIn Profile URL]
 
 
